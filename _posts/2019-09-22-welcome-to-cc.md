@@ -16,6 +16,7 @@ Jekyll博客站点搭建
 
 Jekyll also offers powerful support for code snippets:
 
+
 ~~~ruby
 def print_hi(name)
   puts "Hi, #{name}"
