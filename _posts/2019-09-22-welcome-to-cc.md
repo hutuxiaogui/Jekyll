@@ -9,7 +9,7 @@ overlay: blue
 published: true
 
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`.
+Jekyll博客站点搭建
 {: .lead}
 <!–-break-–>
 Jekyll博客站点搭建
